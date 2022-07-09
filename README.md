@@ -1,7 +1,7 @@
 # Wild-West-VulnHub
 
 
-- Go to the link : **[https://www.vulnhub.com/entry/basic-pentesting-1,216/]([https://www.vulnhub.com/entry/westwild-11,338/](https://www.vulnhub.com/entry/westwild-11,338/))**
+- Go to the link : **https://www.vulnhub.com/entry/westwild-11,338/**
 - Download the __.ova__ file
 - Download Virtual Box : **https://www.virtualbox.org/wiki/Downloads**
 - In VirtualBox, to import the __.ova__ file head to *File → Import Appliance*
